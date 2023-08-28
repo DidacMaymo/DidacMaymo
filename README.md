@@ -5,12 +5,12 @@
 - 📫 How to reach me : https://www.linkedin.com/in/didacmaymo/?locale=en_US
 
 ### For my public Repositories:
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DidacMaymo&show_icons=true&theme=transparent" />
+<p align="center">
+<a href="https://github.com/DidacMaymo">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DidacMaymo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DidacMaymo&layout=compact&langs_count=8&theme=radical"/>
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DidacMaymo&layout=compact&langs_count=8&card_width=260" />
-</a>
+</p>
 
 <!---
 DidacMaymo/DidacMaymo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
