@@ -1,6 +1,4 @@
 
-  ![](https://komarev.com/ghpvc/?username=DidacMaymo&color=green)
-
 - 👋 Hi, I’m @DidacMaymo
 - 👀 I’m interested in machine learning algorithms, data analysis, cybersecurity and improving my back-end and front-end skills.
 - 🌱 I’m currently working developing Java microservices, and learning better code practices in my free time. 
@@ -20,10 +18,12 @@
 </a>
 <a href="https://www.linkedin.com/in/didacmaymo/?locale=en_US">
   <img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="21px"/>
-</a>
+</a><br>
 
 
 
+## Visitors Count
+<img align="left" src = "https://profile-counter.glitch.me/DidacMaymo/count.svg" alt ="Loading">
 
 <!---
 DidacMaymo/DidacMaymo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
